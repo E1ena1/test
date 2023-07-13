@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict';
 // function calculateArea(r){
 //     let area;
 //     if(r<=0){
@@ -131,4 +131,3 @@
 // let str = 'привет мир';
 // let arr = str.split('');
 // console.log(arr);
-
