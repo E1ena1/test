@@ -1,0 +1,14 @@
+img {
+    max-width: 500px;
+}
+h1, h2, h3, p, a {
+    font-size: 48px;
+    color: black;
+}
+
+p, input {
+    border: 1px solid blue;
+    max-width: 500px;
+    min-width: 300px;
+    min-height: 50px;
+}
